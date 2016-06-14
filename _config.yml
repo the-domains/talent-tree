@@ -1,14 +1,28 @@
+name: Talent Tree
+favicon: null
 layout_spectrum: 0.937085
 typography_spectrum: 0.2102025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1648746
-  lightness: 0.5770609
-  brandStrength: 0.4484145
   brandColors:
     - '#FFFFFF'
     - '#7B9D41'
     - '#E5D6C3'
     - '#5A3B00'
     - '#C01908'
-  rhythmicContrast: 0.827957
-name: Talent Tree
+  brandStrength: 0.3125
+  lightness: 0.5770609
+  saturation: 0.5
+  rhythmicContrast: 0.25
+purpose: []
